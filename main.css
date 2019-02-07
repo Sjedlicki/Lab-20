@@ -32,3 +32,23 @@ header{
      bottom: 0;
      width: 100%;
  }
+
+#doggo{
+    width: 250px;
+    height: auto;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+ul{
+    text-align: center;
+    width: 100%;
+    border: 5px;
+}
+
+a {
+    color: yellow;
+}
